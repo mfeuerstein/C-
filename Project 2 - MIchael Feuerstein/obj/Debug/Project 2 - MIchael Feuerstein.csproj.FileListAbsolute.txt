@@ -1,0 +1,28 @@
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.exe.config
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.exe
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.pdb
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.csprojResolveAssemblyReference.cache
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormAccount.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormLogin.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.Properties.Resources.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.csproj.GenerateResource.Cache
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.exe
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.pdb
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormBalance.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormWithdraw.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormDeposit.resources
+C:\Users\micha\OneDrive\Projects\c#\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormTransfer.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.exe.config
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.exe
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - MIchael Feuerstein.pdb
+H:\Downloads\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.exe
+H:\Downloads\Project 2 - MIchael Feuerstein\bin\Debug\Project 2 - MIchael Feuerstein.pdb
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - Michael Feuerstein.csprojResolveAssemblyReference.cache
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormAccount.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormBalance.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormDeposit.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormLogin.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormTransfer.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.FormWithdraw.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project_2___MIchael_Feuerstein.Properties.Resources.resources
+H:\Downloads\Project 2 - MIchael Feuerstein\obj\Debug\Project 2 - Michael Feuerstein.csproj.GenerateResource.Cache
